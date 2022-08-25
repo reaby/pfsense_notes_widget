@@ -1,7 +1,7 @@
-# pfsense_notes_widget
-Notes widget to make notes for pfsense dashboard
+# pfsense notes widget
+Notes widget to make obviously notes for pfsense dashboard
 
-#Usage
+# Usage
 
 1. Copy `widgets` and `include` to pfsense `/usr/local/www/widgets`
 2. Enable widget from dashboard.
